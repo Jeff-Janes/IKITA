@@ -19,7 +19,7 @@ public class IKITA extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_fun_facts);
+        setContentView(R.layout.activity_ikita);
 
         // Declare our View variables and assign them the Views from the layout file
         final TextView quoteLabel = (TextView) findViewById(R.id.quoteTextView);
